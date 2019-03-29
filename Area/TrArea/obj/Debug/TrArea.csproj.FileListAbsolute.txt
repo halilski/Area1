@@ -1,0 +1,7 @@
+C:\Users\UCHITELY\source\repos\Area\TrArea\bin\Debug\TrArea.exe.config
+C:\Users\UCHITELY\source\repos\Area\TrArea\bin\Debug\TrArea.exe
+C:\Users\UCHITELY\source\repos\Area\TrArea\bin\Debug\TrArea.pdb
+C:\Users\UCHITELY\source\repos\Area\TrArea\obj\Debug\TrArea.csprojAssemblyReference.cache
+C:\Users\UCHITELY\source\repos\Area\TrArea\obj\Debug\TrArea.csproj.CoreCompileInputs.cache
+C:\Users\UCHITELY\source\repos\Area\TrArea\obj\Debug\TrArea.exe
+C:\Users\UCHITELY\source\repos\Area\TrArea\obj\Debug\TrArea.pdb
